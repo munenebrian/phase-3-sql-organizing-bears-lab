@@ -9,3 +9,5 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+gem "ruby-lsp", "~> 0.2.3", :group => :development
